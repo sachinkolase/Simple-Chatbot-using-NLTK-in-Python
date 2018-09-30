@@ -1,8 +1,12 @@
 # Simple-Chatbot-using-NLTK-in-Python
 So what is a chatbot?
+
 A chatbot is an artificial intelligence-powered piece of software in a device (Siri, Alexa, Google Assistant etc), application, website or other networks that try to gauge consumer’s needs and then assist them to perform a particular task like a commercial transaction, hotel booking, form submission etc .Today almost every company has a chatbot deployed to engage with the users. Some of the ways in which companies are using chatbots are:  To deliver flight information to connect customers and their finances As customer support
+
 Building the Bot:
+
 Text Pre- Processing with NLTK
+
 The main issue with text data is that it is all in text format (strings). However, the Machine learning algorithms need some sort of numerical feature vector in order to perform the task. So before we start with any NLP project we need to pre-process it to make it ideal for working. Basic text pre-processing includes:
 
 1.Converting the entire text into uppercase or lowercase, so that the algorithm does not treat the same words in different cases as different
